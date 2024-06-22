@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ramut\OneDrive\Рабочий стол\C++\Platformer\Platformer\main.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Ramut\OneDrive\Рабочий стол\C++\Platformer\Platformer\main.cpp(28,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Platformer.vcxproj -> C:\Users\Ramut\OneDrive\Рабочий стол\C++\Platformer\Debug\Platformer.exe
